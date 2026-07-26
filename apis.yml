@@ -1,8 +1,28 @@
 aid: erad
 name: Erad
-description: Erad is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Erad is a licensed, Sharia-compliant fintech lender providing fast, flexible
+  working capital to small and medium-sized businesses across Saudi Arabia and the
+  United Arab Emirates. Founded in 2022 (Y Combinator S22) and headquartered in Riyadh,
+  Erad offers revenue-based financing, invoice financing (advancing up to 90% of B2B/B2G
+  invoices in as little as 48 hours), and supplier financing to revenue-generating
+  SMEs. The company embeds working-capital products into supplier networks and business
+  platforms, and is backed by investors including Y Combinator, 500 Global, Nuwa Capital,
+  Khwarizmi Ventures, Aljazira Capital, VentureSouq, Oraseya Capital and Joa Capital,
+  alongside debt facilities from Stride Ventures and a $125M asset-backed facility
+  led by Jefferies with Channel Capital.
 url: https://raw.githubusercontent.com/api-evangelist/erad/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://erad.co/favicon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +31,20 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Fintech
+- Financial Services
+- Lending
+- SME Financing
+- Working Capital
+- Invoice Financing
+- Embedded Finance
+- Revenue Based Financing
+- Saudi Arabia
+- MENA
+- Sharia Compliant
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +52,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/erad-domain-security.yml
+- type: LLMsTxt
+  url: llms/erad-llms.txt
 - type: Website
   url: https://erad.co
+- type: Blog
+  url: https://erad.co/en/blog
+- type: TermsOfService
+  url: https://erad.co/en/terms
+- type: PrivacyPolicy
+  url: https://erad.co/en/privacy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

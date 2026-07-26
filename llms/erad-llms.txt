@@ -1,0 +1,33 @@
+# erad — AI Crawler Guide
+# https://llmstxt.org/
+
+> erad is a licensed, Sharia-compliant fintech lender providing fast, flexible revenue-based financing, invoice financing, and working capital to SMEs in the UAE and Saudi Arabia.
+
+## Preferred canonical hosts
+
+- UAE market: https://erad.co
+- KSA market: https://ksa.erad.co
+
+## Primary public sections
+
+### Products & Financing
+- https://erad.co/en/products/working-capital — Working Capital Financing
+- https://erad.co/en/products/invoice-financing — Invoice Financing (up to 90% of B2B/B2G invoices in 48 hours)
+- https://erad.co/en/products/supplier-financing — Supplier Financing
+
+### Company
+- https://erad.co/en/about — About erad (mission, investors, team)
+- https://erad.co/en/sharia — Shariah Committee & Governance
+- https://erad.co/en/blog — Blog, News & Press
+- https://erad.co/en/stories — Customer Stories
+
+### Legal & Regulatory
+- https://erad.co/en/terms — Terms & Conditions
+- https://erad.co/en/privacy — Privacy Policy
+- https://ksa.erad.co/en/terms — Terms & Conditions (KSA)
+- https://ksa.erad.co/en/privacy — Privacy Policy (KSA)
+
+## Arabic language variants
+
+All pages are also available in Arabic. Replace /en/ with /ar/ in any URL above.
+Arabic RTL variants use the same canonical structure on the same domain.
