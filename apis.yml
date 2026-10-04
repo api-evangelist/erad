@@ -46,7 +46,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Lending
 - SME Financing
 - Working Capital
@@ -69,6 +69,7 @@ tags_raw:
 - Saudi Arabia
 - MENA
 - Sharia Compliant
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
